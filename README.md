@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Mykola. 👋<br><br>18 year old professional vibe coder. I turn vibes into functional code and ideas into reality, mostly behind the scenes in my private repos.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/858421346082357269) 
