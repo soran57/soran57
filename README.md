@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Mykola 👋
 
-<!--
-**soran57/soran57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Kharkiv, Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+I build APIs, data pipelines, and the infrastructure around them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 SkyAssist · [skyassist.dev](https://skyassist.dev)
+
+Analytics & progression companion for Hypixel SkyBlock.
+Real-time game data, daily active users, running in production.
+
+## 🛠 Stack
+
+- **Languages:** Go · TypeScript / JavaScript · Java
+- **Data:** PostgreSQL · MySQL · Redis
+- **Infra:** Docker · Nginx · Linux · GitHub Actions
+
+## 📫 Contacts
+
+Telegram [@soran_solo](https://t.me/soran_solo) · [soran.work.dev@gmail.com](mailto:soran.work.dev@gmail.com)
